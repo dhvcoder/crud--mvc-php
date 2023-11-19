@@ -1,10 +1,10 @@
 <?php
-    require_once './controller/employeeContr.php';
-    if(isset($_GET['id_up'])){
-      $id= $_GET['id_up'];
-      $user1 = new EmployeeContr();
-      $getbyID=$user1->getByID($id);
-    }
+require_once './controller/employeeContr.phpasdsadasd';
+if (isset($_GET['id_up'])) {
+  $id = $_GET['id_up'];
+  $user1 = new EmployeeContr();
+  $getbyID = $user1->getByID($id);
+}
 ?>
 
 
