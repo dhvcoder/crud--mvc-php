@@ -46,3 +46,14 @@ function showData() {
         ?>
   </tbody>
 </table>
+
+<div class="card">
+  <div class="card-header">
+    Header
+  </div>
+  <div class="card-body">
+  </div>
+  <div class="card-footer text-muted">
+    Footer
+  </div>
+</div>

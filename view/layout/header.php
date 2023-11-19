@@ -22,6 +22,9 @@
               <li class="nav-item">
                 <a class="nav-link" href="index.php?page_layout=indexContr&action=lienhe">Liên hệ</a>
               </li>
+              <li class="nav-item">
+                <a class="nav-link" href="index.php?page_layout=indexContr&action=dangnhap">Đăng nhập</a>
+              </li>
             </ul>
           </div>
         </div>

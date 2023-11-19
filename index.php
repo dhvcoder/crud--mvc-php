@@ -19,6 +19,10 @@
                 require_once './controller/employeeContr.php';
                 break;
             }
+            case 'login' :{
+                require_once './controller/LoginContr.php';
+                break;
+            }
             default : {
                 require_once './view/danhsach.php';
                 break;

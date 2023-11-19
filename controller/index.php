@@ -23,6 +23,10 @@
             require_once './view/lienhe.php';
             break;
         }
+        case 'dangnhap' : {
+            require_once './view/dangnhap.php';
+            break;
+        }
         
     }
 ?>
