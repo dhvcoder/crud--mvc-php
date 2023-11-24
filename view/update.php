@@ -1,5 +1,5 @@
 <?php
-require_once './controller/employeeContr.phpasdsadasd';
+require_once './controller/employeeContr.php';
 if (isset($_GET['id_up'])) {
   $id = $_GET['id_up'];
   $user1 = new EmployeeContr();
